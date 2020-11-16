@@ -1,6 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="PhpIncludePathManager">
+  <component name="ChangeListManager">
+    <list default="true" id="9e2e6118-0612-4a78-ab54-19cbee1144ec" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/phpunit.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/quickstart.iml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
     <include_path>
       <path value="$PROJECT_DIR$/vendor/mockery/mockery" />
       <path value="$PROJECT_DIR$/vendor/dragonmantank/cron-expression" />
@@ -107,20 +129,90 @@
       <path value="$PROJECT_DIR$/vendor/league/mime-type-detection" />
       <path value="$PROJECT_DIR$/vendor/league/flysystem" />
       <path value="$PROJECT_DIR$/vendor/opis/closure" />
-      <path value="$PROJECT_DIR$/vendor/paragonie/constant_time_encoding" />
-      <path value="$PROJECT_DIR$/vendor/pragmarx/google2fa" />
-      <path value="$PROJECT_DIR$/vendor/jenssegers/agent" />
-      <path value="$PROJECT_DIR$/vendor/laravel/jetstream" />
-      <path value="$PROJECT_DIR$/vendor/laravel/fortify" />
-      <path value="$PROJECT_DIR$/vendor/jaybizzle/crawler-detect" />
-      <path value="$PROJECT_DIR$/vendor/mobiledetect/mobiledetectlib" />
-      <path value="$PROJECT_DIR$/vendor/dasprid/enum" />
-      <path value="$PROJECT_DIR$/vendor/bacon/bacon-qr-code" />
+      <path value="$PROJECT_DIR$/vendor/symfony/filesystem" />
+      <path value="$PROJECT_DIR$/vendor/lucidarch/lucid" />
+      <path value="$PROJECT_DIR$/vendor/laravel/breeze" />
     </include_path>
   </component>
-  <component name="PhpUnit">
-    <phpunit_settings>
-      <PhpUnitSettings configuration_file_path="$PROJECT_DIR$/phpunit.xml" custom_loader_path="$PROJECT_DIR$/vendor/autoload.php" use_configuration_file="true" />
-    </phpunit_settings>
+  <component name="ProjectId" id="1kKDZ5VM5RqhvCFuSV28enctHcE" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php" />
+  </component>
+  <component name="RunManager" selected="PHPUnit.AddLinkFeatureTest.test_link_is_not_created_if_validation_fails">
+    <configuration name="AddLinkFeatureTest.test_link_is_not_created_if_validation_fails" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
+      <TestRunner class="App\Tests\Features\AddLinkFeatureTest" file="$PROJECT_DIR$/tests/Features/AddLinkFeatureTest.php" method="test_link_is_not_created_if_validation_fails" scope="Method" />
+      <method v="2" />
+    </configuration>
+    <configuration name="phpunit.xml" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner scope="XML" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="PHPUnit.AddLinkFeatureTest.test_link_is_not_created_if_validation_fails" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9e2e6118-0612-4a78-ab54-19cbee1144ec" name="Default Changelist" comment="" />
+      <created>1605440441519</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605440441519</updated>
+      <workItem from="1605440443732" duration="20816000" />
+      <workItem from="1605541849659" duration="10303000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1342" y="134" key="#AddLinkFeatureTest.test_link_is_not_created_if_validation_fails" timestamp="1605551635783">
+      <screen x="0" y="0" width="2560" height="1080" />
+    </state>
+    <state x="1342" y="134" key="#AddLinkFeatureTest.test_link_is_not_created_if_validation_fails/0.0.2560.1080@0.0.2560.1080" timestamp="1605551635783" />
+    <state x="1520" y="263" key="#com.intellij.ide.util.MemberChooser" timestamp="1605459939738">
+      <screen x="0" y="0" width="2560" height="1080" />
+    </state>
+    <state x="1520" y="263" key="#com.intellij.ide.util.MemberChooser/0.0.2560.1080@0.0.2560.1080" timestamp="1605459939738" />
+    <state x="1429" y="414" key="#com.jetbrains.php.refactoring.move.namespace.PhpMoveNamespaceDialog#" timestamp="1605454797647">
+      <screen x="0" y="0" width="2560" height="1080" />
+    </state>
+    <state x="1429" y="414" key="#com.jetbrains.php.refactoring.move.namespace.PhpMoveNamespaceDialog#/0.0.2560.1080@0.0.2560.1080" timestamp="1605454797647" />
+    <state x="855" y="146" key="SettingsEditor" timestamp="1605548809224">
+      <screen x="0" y="0" width="2560" height="1080" />
+    </state>
+    <state x="855" y="146" key="SettingsEditor/0.0.2560.1080@0.0.2560.1080" timestamp="1605548809224" />
+    <state x="1358" y="279" width="584" height="522" key="find.popup" timestamp="1605551039573">
+      <screen x="0" y="0" width="2560" height="1080" />
+    </state>
+    <state x="1358" y="279" width="584" height="522" key="find.popup/0.0.2560.1080@0.0.2560.1080" timestamp="1605551039573" />
+    <state x="1271" y="241" width="670" height="676" key="search.everywhere.popup" timestamp="1605554742387">
+      <screen x="0" y="0" width="2560" height="1080" />
+    </state>
+    <state x="1271" y="241" width="670" height="676" key="search.everywhere.popup/0.0.2560.1080@0.0.2560.1080" timestamp="1605554742387" />
   </component>
 </project>
